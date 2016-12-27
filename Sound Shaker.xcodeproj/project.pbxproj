@@ -12,6 +12,7 @@
 		798EBAFB1E132828003CC732 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 798EBAF91E132828003CC732 /* Main.storyboard */; };
 		798EBAFD1E132828003CC732 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 798EBAFC1E132828003CC732 /* Assets.xcassets */; };
 		798EBB001E132828003CC732 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 798EBAFE1E132828003CC732 /* LaunchScreen.storyboard */; };
+		798EBB0A1E132B38003CC732 /* whip_crack.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 798EBB091E132B38003CC732 /* whip_crack.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		798EBAFC1E132828003CC732 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		798EBAFF1E132828003CC732 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		798EBB011E132828003CC732 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		798EBB091E132B38003CC732 /* whip_crack.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = whip_crack.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +59,10 @@
 				798EBAF51E132828003CC732 /* AppDelegate.swift */,
 				798EBAF71E132828003CC732 /* ViewController.swift */,
 				798EBAF91E132828003CC732 /* Main.storyboard */,
-				798EBAFC1E132828003CC732 /* Assets.xcassets */,
 				798EBAFE1E132828003CC732 /* LaunchScreen.storyboard */,
 				798EBB011E132828003CC732 /* Info.plist */,
+				798EBAFC1E132828003CC732 /* Assets.xcassets */,
+				798EBB091E132B38003CC732 /* whip_crack.mp3 */,
 			);
 			path = "Sound Shaker";
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			files = (
 				798EBB001E132828003CC732 /* LaunchScreen.storyboard in Resources */,
 				798EBAFD1E132828003CC732 /* Assets.xcassets in Resources */,
+				798EBB0A1E132B38003CC732 /* whip_crack.mp3 in Resources */,
 				798EBAFB1E132828003CC732 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
